@@ -4,4 +4,4 @@ This repository contains certificates for courses that are completed for Jupyter
 ### Certificates 
 1. LinkedIn Learning [Jupyter Learning](https://github.com/mackenziebelchos/Course-Certificates/blob/main/Introducing-Jupyter.md) (Required)
 2. LinkedIn Learning [Python Quick Start](https://github.com/mackenziebelchos/Course-Certificates/blob/main/Python-Quick-Start.md) (Required)
-3. LinkedIn Learning [Numpy Essential Training 1: Foundations of NumPy]() (Required)
+3. LinkedIn Learning [Numpy Essential Training 1: Foundations of NumPy](https://github.com/mackenziebelchos/Course-Certificates/blob/main/Numpy_Essential_Training_1.md) (Required)
